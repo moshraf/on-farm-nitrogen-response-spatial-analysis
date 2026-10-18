@@ -88,6 +88,7 @@ This outlines the workflow only. The dataset and notebook are not included, so i
 
 - **Data:** supplied teaching dataset (SPAT5008 Applied GIS, Curtin University). It is not redistributed here and remains subject to the unit's conditions.
 - **Maps and charts:** produced by the author for this exercise. No basemap or third-party imagery is used.
+- **Copyright:** © 2026 Moshraf Hossain. All rights reserved in my original text and cartographic contributions. Supplied teaching materials and any third-party content are excluded from this notice and remain subject to their respective terms.
 
 ## Acknowledgement
 
