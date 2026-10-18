@@ -65,8 +65,7 @@ All figures were produced during a guided laboratory exercise using a supplied t
 - **Spatial dependence:** spatial dependence between nearby observations may affect the independence assumption behind the Z-tests. Its extent and effect were not assessed.
 - **Unequal group sizes:** treatment groups range from 855 to 2,875 observations. Unequal sample sizes can affect the precision of treatment estimates; precision also depends on within-group variability and spatial dependence.
 - **Linear trend:** nitrogen was applied at four fixed rates, so a straight line is a limited summary of the pattern.
-- **Local associations:** the example neighbourhoods illustrate the relationship types. Several have low adjusted R², and they do not identify a recommended nitrogen rate.
-
+- **Local associations:** the mapped relationship types describe local statistical associations, not recommended nitrogen rates. Some of the example neighbourhoods examined in the original report had low adjusted R² (for example 0.085 and 0.10).
 ## Tools and skills
 
 - **Tools:** ArcGIS Pro (kriging, Summary Statistics, Local Bivariate Relationships, layouts and cartography) and a Jupyter Notebook (pairwise Z-tests).
